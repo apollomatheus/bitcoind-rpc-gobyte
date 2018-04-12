@@ -1,6 +1,6 @@
 {
-  "name": "@dashevo/bitcoind-rpc",
-  "description": "Dash Client Library to connect to Dash Core via RPC",
+  "name": "@gobytecoin/bitcoind-rpc-gobyte",
+  "description": "GoByte Client Library to connect to GoByte Core via RPC",
   "version": "1.0.1",
   "author": {
     "name": "Stephen Pair",
@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/bitcoind-rpc-dash"
+    "url": "https://github.com/gobytecoin/bitcoind-rpc-dash"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -53,7 +53,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/dashevo/bitcoind-rpc-dash/issues"
+    "url": "https://github.com/gobytecoin/bitcoind-rpc-dash/issues"
   },
-  "homepage": "https://github.com/dashevo/bitcoind-rpc-dash"
+  "homepage": "https://github.com/gobytecoin/bitcoind-rpc-dash"
 }
